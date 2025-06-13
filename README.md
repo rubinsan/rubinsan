@@ -1,5 +1,13 @@
 # Hi there <img src="https://raw.githubusercontent.com/hl0d0w1g/hl0d0w1g.github.io/master/images/hello.gif" width="30px" height = "30px">
 
+I'm an Industrial Electronics Engineer, and since the beginning of my studies, my passion for robotics 🤖 has only kept growing. I've been fortunate to work professionally in the field I love, contributing to research and development projects that have presented exciting and meaningful challenges throughout my career.
+
+📚 I'm constantly learning and exploring new areas—currently, I'm focused on studying machine learning techniques 🤓.
+
+🏔️ Outside of tech, I’m passionate about the mountains, traveling 🌍, and water sports 🌊.
+
+I hope you find some of the repositories on my profile useful for your projects. Enjoy! 🚀
+
 <!--
 **rubinsan/rubinsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
